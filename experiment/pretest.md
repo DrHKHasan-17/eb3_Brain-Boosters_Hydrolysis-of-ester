@@ -7,7 +7,7 @@ b) Dihydric alcohol<br>
 c) Dicorboxylic acid<br>
 d) Secondary alcohol<br>
 
-2) What reaction takes place when NaOH is added with HCl<br>
+2) What reaction takes place when NaOH is added with HCl? <br>
 a) Addition reaction<br>
 b) Halogenation reaction<br>
 <b>c) Neutralization reaction </b><br>
