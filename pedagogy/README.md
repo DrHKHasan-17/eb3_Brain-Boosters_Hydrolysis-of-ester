@@ -40,9 +40,13 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <br/>
 <hr>
 <a name="IS"></a>
+
 #### 3. Instructional Strategy
+
 ###### Name of Instructional Strategy  :    <u> Expository
+    
 ###### Assessment Method: Procedural method, trial and error method
+
 <u> <b>Description: </b> The experiment "Detemination of rate constant of hydrolysis of ester" is based on expository instructional strategy. In this experiment, we already know that the order of reation that is pseduo first order. In pseduo first order, the rate constant is same for all steps. </u>
 <br>
 In this experiment the calculated and graphical value of rate constant is same.
@@ -53,6 +57,7 @@ In this experiment the calculated and graphical value of rate constant is same.
 <br/>
 <hr>
 <a name="AQ"></a>
+
 #### 4. Task & Assessment Questions:
 
 Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
