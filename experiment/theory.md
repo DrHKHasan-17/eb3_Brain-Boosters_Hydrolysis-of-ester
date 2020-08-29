@@ -6,4 +6,4 @@ This reaction follows pseudo first order kinetics. <br>
 <b>CALCULATION:</b><br>
 The rate constant K is determined using the equation,<br>
 <b>&nbsp;&nbsp;K=(2.303/t)(log((V0-V∞)/(Vt-V∞)))</b><br>
-Rate constant is also determined graphically by plotting Vs time.
+Rate constant is also determined graphically by plotting <b>log(Vt-V∞)</b> Vs <b>time</b>.
