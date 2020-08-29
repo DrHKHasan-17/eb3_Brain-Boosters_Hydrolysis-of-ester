@@ -28,10 +28,11 @@ Remove this line before submitting : To Refer a filled sample of this template v
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br> <br> . | | 
-2.| User will be able to: <br> <br> . | | 
-3.| User will be able to: <br> <br> . | | 
-4.| User will be able to: <br> <br> . | | 
+1.| User will be able to:Understand that rate constant<br>is related to<br>the rate of reaction. | Understand | Examine 
+2.| User will be able to:Apply the concept of hydrolysis. | Apply | Describe
+3.| User will be able to:Analyse that the<br>hydrolysis of ester<br>is a pseduo first order reaction . | Analyse | Conclude
+4.| User will be able to:Examine the rate constant<br> of hydrolysis of<br> ester. |Examine | Evaluate
+5.| User will be able to:Analyse the calculated value<br> and graphical value<br>of rate constant. |Analyse | Compare
 
 
 <br/>
@@ -43,13 +44,12 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u> Expository
+###### Assessment Method: Procedural method, trial and error method
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b> The experiment "Detemination of rate constant of hydrolysis of ester" is based on expository instructional strategy. In this experiment we already know that the order of reation that is pseduo first order. In pseduo first order the rate constant is same for all steps. </u>
 <br>
- Brief description as per handout
-
+In this experiment the calculated and graphical value of rate constant is same.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
