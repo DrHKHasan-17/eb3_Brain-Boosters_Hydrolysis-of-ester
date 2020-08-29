@@ -12,8 +12,8 @@ Rate constant is also determined graphically by plotting <b>log(Vt-V∞)</b> Vs 
 Rate = k (a - x)</b>  <br>
 where k = rate constant  The  concept  of  rate  of  reaction  is very  important  to determining  chemical reacting systems.
 It  is  the core factor  in  the  development  of performance  models  to stimulate  reactor  functional  parameters.In  place  of concentration  of  reactant  or  product  any  physical property, which  is directly related with concentration, such  as  viscosity,  surface  tension,refractive  index, absorbance etc. can be measured for the determination ofthe rate of reaction.<br> 
- <b>Reaction rate</b><br>
+ <b>Reaction rate:</b>
 Chemical kinetics is the part of physical chemistry that studies reaction rates. The reaction rate or rate of reaction for a reactant or product in a particular reaction is intuitively defined as how fast a reaction takes place. For example, the oxidation of iron under the atmosphere is a slow reaction which can take many years, but the combustion of butane in a fire is a reaction that takes place in fractions of a second.<br>
-<b>Calculation</b><br>
+<b>Calculation:</b>
 The initial ethyl acetate concentration is proportional to (Vo-V∞), where V∞ is the final titre volume for flask A and Vo is the titre volume for flask B. The concentration of ethyl acetate at time t is proportional to (Vt-V∞) where Vt is the titre volume of the sample at time t. Plot ln(Vt-V∞) against time. Hence determine the value of k1 (in s-1) and the half-life of the reaction.<br>
 The value of <b>k</b> should be constant.
