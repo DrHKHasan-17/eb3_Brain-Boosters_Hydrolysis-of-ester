@@ -7,9 +7,7 @@
 <b> Experiment|     <b> Determination of rate constant of hydrolysis of esters.
 
 <h5> About the Lab (Objective) : </h5>
-
-To determine the rate constant for the acid-catalyzed hydrolysis of ethyle acetate.
-
+Engineering chemistry lab is  aptly prepared to impart education in Chemistry.It provides students with a practical approach towards the various techniques used in engineering application.
 <h5> About the Experiment : </h5>
 
 Ethyle acetate undergoes hydrolysis, in presence of an acid, to give acetic acid and ethyle alcohol. This experiment is performed by the titration process. The rate of reaction is determined by one concentration term only.
@@ -43,11 +41,10 @@ AKTU
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. Syed Khalid Hasan | Faculty | Department of Applied Sciences (Chemistry) | Institute of Technology & Management, GIDA, Gorakhpur | drskhasan@yahoo.com
-2 | Abhishek Mishra | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com
-3 | Ashish Shukla | Student | Computer Applications| Institute of Management Studies, Noida, Uttar Pradesh | ashishgkp22@yahoo.com
-4 | Kriti Shukla | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | kritishukla2019@gmail.com
-5 | Pankaj Kumar Gond | Student | Information Technology | Institute of Technology & Management, GIDA, Gorakhpur | pankajkumargond79@gmail.com
+1 | Abhishek Mishra | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com
+2 | Ashish Shukla | Student | Computer Applications| Institute of Management Studies, Noida, Uttar Pradesh | ashishgkp22@yahoo.com
+3 | Kriti Shukla | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | kritishukla2019@gmail.com
+4 | Pankaj Kumar Gond | Student | Information Technology | Institute of Technology & Management, GIDA, Gorakhpur | pankajkumargond79@gmail.com
 
 
 <br> </b>
